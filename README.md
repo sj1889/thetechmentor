@@ -1,12 +1,12 @@
 # thetechmentor
 
-**Goal**
+## **Goal**
 This platform helps people to determine their earnest value and accelerate them to their desired positions.
 
-**Motivation**
+## **Motivation**
 Current gap in tech industry between a mentor and mentee is huge. Without a mentor, the inidividual growth is limited to a factor of 1/10 of the actual candidate potential.
 
-**Product Features**
+## **Product Features**
 1. Provide a curated list of mentors rated by mentees.
 2. Scheduling sessions for the candidate training and development.
 3. Providing concrete development plans to the mentee.
